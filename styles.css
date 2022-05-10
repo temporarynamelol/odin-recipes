@@ -5,3 +5,10 @@
 .page-title {
     color: #fff0c3;
 }
+
+.links,
+.links a {
+    color: #fff0c3;
+    list-style: none;
+    text-decoration: none;
+}
