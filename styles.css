@@ -7,7 +7,8 @@
 }
 
 .links,
-.links a {
+.links a,
+.home {
     color: #fff0c3;
     list-style: none;
     text-decoration: none;
