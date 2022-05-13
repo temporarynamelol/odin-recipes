@@ -7,6 +7,12 @@
     text-align: center;
 }
 
+.pics {
+    text-align: center;
+    height: 1000px;
+    width: auto;
+}
+
 .links,
 .links a,
 .home {
