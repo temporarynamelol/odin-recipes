@@ -2,14 +2,13 @@
     background: rgb(0, 64, 39);
 }
 
-.page-title {
+.body {
     color: #fff0c3;
     text-align: center;
 }
 
 .pics {
-    text-align: center;
-    height: 1000px;
+    height: 400px;
     width: auto;
 }
 
